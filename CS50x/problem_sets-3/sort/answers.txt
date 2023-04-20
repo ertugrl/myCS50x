@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: since I have found sort2 and sort3, the last one must be Bubble Sort
+
+sort2 uses: Merge Sort
+
+How do you know?: the fastest sorting in reversed list is Merge Sort
+
+sort3 uses: Selection Sort
+
+How do you know?: the slowest sorting in sorted list is Selection Sort
